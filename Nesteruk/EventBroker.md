@@ -1,4 +1,4 @@
-# Статьи Нестерюка про паттерн Event Broker и его реализацию на .Net
+### Статьи Нестерюка про паттерн Event Broker и его реализацию на .Net
 
 * [Первая часть](https://nesteruk.wordpress.com/2010/06/24/event-broker-part-1/)
 * [Часть вторая](https://nesteruk.wordpress.com/2010/06/25/event-broker-part-2/)
