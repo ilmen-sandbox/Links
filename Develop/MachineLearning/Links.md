@@ -5,6 +5,7 @@
 * [ИНТУИТ - лекция "Введение в машинное обучение"](http://www.intuit.ru/studies/courses/19469/1105/lecture/17981)
 * [Изучаем нейронные сети в 4-ре шага](https://tproger.ru/translations/learning-neural-networks/)
 * Шпаргалка по разновидностям нейронных сетей [часть 1](https://tproger.ru/translations/neural-network-zoo-1/) [часть 2](https://tproger.ru/translations/neural-network-zoo-2/)
+* [Все статьи TProger о нейронных сетях](https://tproger.ru/tag/neural-network/)
 * [Подборка видеолекций](https://www.youtube.com/results?search_query=%D0%9D%D0%B5%D0%B9%D1%80%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B5%D1%82%D0%B8)
 
 ### Статьи
