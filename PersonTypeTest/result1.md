@@ -1,6 +1,6 @@
 #Результаты теста личности на [16personalities.com](https://www.16personalities.com/ru/)
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/ilmen-sandbox/links/raw/master/PersonTypeTest/image.png "image_result")
 
 Тип личности INTP достаточно редко распространен, составляя только три процента из населения, что для них весьма хорошо, ибо нет для них большей неприятности, чем быть «как все». Типы INTP гордятся своей изобретательностью и творческой натурой, их уникальным видением и живым интеллектом. Такой человек может быть известным философом, архитектором, или эксцентричным профессором, типам INTP принадлежат многие научные открытия в нашей истории.
 
